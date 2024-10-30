@@ -1,4 +1,4 @@
-body{background:url('./img/bg.jpg') no-repeat fixed center top;}
+body{background:url('bg.jpg') no-repeat fixed center top;}
 #main{margin:0 auto;}
 .fakediv{width:auto; height:380px;}
 
